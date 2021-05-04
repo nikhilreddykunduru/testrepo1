@@ -6,3 +6,4 @@ cout<<"Hi, added in branch 1"<<endl;
 return 0;
 }
 //newline added
+//added in branch2
